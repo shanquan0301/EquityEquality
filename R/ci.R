@@ -22,7 +22,6 @@
 ##'                           age_dec, gender, self_stat, adl_heal, pain_num, chro_num),
 ##'            nam_adj = c("edu", "self_stat"))
 
-
 ##' res <- dat_2011_rural_imp %>% filter(outp_tim > 0) %$%
 ##'          fun_ci_sd2(inc = hous_inc,
 ##'          y = outp_tim,
