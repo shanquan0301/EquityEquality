@@ -1,0 +1,15 @@
+Package: EquityEquality
+Type: Package
+Title: Indexes Used in Equity or Equality and Their Decomposition
+Version: 0.1.0
+Author: Shanquan CHEN
+Maintainer: Shanquan CHEN <shanquan0301@gmail.com>
+Description: Calculate the concentration index, horizontal index, KaKwani index, and theil index, and decompose them among factors.
+License: GPL
+Encoding: UTF-8
+Imports: dplyr, magrittr, tidyr, stringr, stats, mfx, MASS, car, nnet
+RoxygenNote: 6.1.1
+NeedsCompilation: no
+
+
+
